@@ -1,4 +1,4 @@
-﻿namespace backend_test;
+﻿namespace backend_template.Model;
 
 public class WeatherForecast
 {
